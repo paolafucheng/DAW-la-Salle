@@ -16,7 +16,7 @@ Se tendrá que invertir en una media de 57.000 euros y sacando beneficios de 75.
 
 En resumen, por cada euro invertido el primer año, la empresa recupera su inversión y gana 0,31€ adicionales. Para más adelante seguir con ventas y comercio.
 
-![Presentación - Digitalización](Digitalización.png)
+![Presentación - Digitalización](Digitalizacion.png)
 
 - [Documento de la práctica completa](https://docs.google.com/document/d/16b3WsGJKpxA_dkRlcUgQfjlzzlV086590wH1_fotcUk/edit?usp=sharing)
 
