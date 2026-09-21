@@ -4,6 +4,7 @@ Aquí se mostrará la práctica en grupo que hice en la asignatura de Sostenibil
 Teníamos que elegir una empresa para analizar su plan de sostenibilidad y nosotras elegimos H&M, una compañía textil conocida por tener top ventas en fast fashion.
 
 - [Enlace hacia la presentación](https://canva.link/kbo8br7bu94k8zw)
+
 ![Portada - Presentación](<Grupo 14 - Sostenibilidad.png>)
 
 Al final concluimos que:
